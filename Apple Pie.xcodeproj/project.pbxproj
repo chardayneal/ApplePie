@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C7C73C52B64488D00654D02 /* applepie2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C7C73C22B64488D00654D02 /* applepie2.png */; };
+		1C7C73C62B64488D00654D02 /* applepie1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C7C73C32B64488D00654D02 /* applepie1.png */; };
+		1C7C73C72B64488D00654D02 /* applepie3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C7C73C42B64488D00654D02 /* applepie3.png */; };
 		1CFB96232B4D89720045529E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFB96222B4D89720045529E /* AppDelegate.swift */; };
 		1CFB96252B4D89720045529E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFB96242B4D89720045529E /* SceneDelegate.swift */; };
 		1CFB96272B4D89720045529E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFB96262B4D89720045529E /* ViewController.swift */; };
@@ -17,6 +20,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C7C73C22B64488D00654D02 /* applepie2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = applepie2.png; sourceTree = "<group>"; };
+		1C7C73C32B64488D00654D02 /* applepie1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = applepie1.png; sourceTree = "<group>"; };
+		1C7C73C42B64488D00654D02 /* applepie3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = applepie3.png; sourceTree = "<group>"; };
 		1CFB961F2B4D89720045529E /* Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CFB96222B4D89720045529E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1CFB96242B4D89720045529E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -39,6 +45,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C7C73C12B64483300654D02 /* AppScreenshots */ = {
+			isa = PBXGroup;
+			children = (
+				1C7C73C32B64488D00654D02 /* applepie1.png */,
+				1C7C73C22B64488D00654D02 /* applepie2.png */,
+				1C7C73C42B64488D00654D02 /* applepie3.png */,
+			);
+			path = AppScreenshots;
+			sourceTree = "<group>";
+		};
 		1CFB96162B4D89720045529E = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +74,7 @@
 		1CFB96212B4D89720045529E /* Apple Pie */ = {
 			isa = PBXGroup;
 			children = (
+				1C7C73C12B64483300654D02 /* AppScreenshots */,
 				1CFB96222B4D89720045529E /* AppDelegate.swift */,
 				1CFB96242B4D89720045529E /* SceneDelegate.swift */,
 				1CFB96262B4D89720045529E /* ViewController.swift */,
@@ -130,7 +147,10 @@
 			files = (
 				1CFB962F2B4D89740045529E /* LaunchScreen.storyboard in Resources */,
 				1CFB962C2B4D89740045529E /* Assets.xcassets in Resources */,
+				1C7C73C52B64488D00654D02 /* applepie2.png in Resources */,
+				1C7C73C62B64488D00654D02 /* applepie1.png in Resources */,
 				1CFB962A2B4D89720045529E /* Main.storyboard in Resources */,
+				1C7C73C72B64488D00654D02 /* applepie3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
