@@ -12,7 +12,7 @@ An iPad game that allows users to guess the letters of a word. The user is given
 
 - Make sure you have the Xcode version 14.0 or above installed on your computer
 
-- Download the OrderApp project files from the repository
+- Download the ApplePie project files from the repository
 
 - Open the project files in Xcode
 
@@ -20,7 +20,7 @@ An iPad game that allows users to guess the letters of a word. The user is given
 
 - Run active scheme
 
-You should see the application run on simulated device or hardware device of your choosing. Navigating between controllers should be fairly easy. If you have any issues or need help, feel free to contact me for assistance.
+You should see the application run on simulated device or iPad hardware device of your choosing. If you have any issues or need help, feel free to contact me for assistance.
 
 
 
